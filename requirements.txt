@@ -4,5 +4,6 @@ streamlit
 thetadata
 yfinance
 plotly
-numpy==1.24.4
+numpy
+setuptools>=68.0.0
 
